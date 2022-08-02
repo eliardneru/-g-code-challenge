@@ -1,4 +1,4 @@
-# -g-code-challenge
+# /g/code-challenge
 trying to get better at coding with 4chan's /g/ board
 
 ![image](https://user-images.githubusercontent.com/74941858/182276237-b6cc51f5-115c-4683-bae9-d49437587e53.png)
