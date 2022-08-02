@@ -5,3 +5,5 @@ trying to get better at coding with 4chan's /g/ board
 
 i will code each one of this challenges, making a commit for each one, at the end i hope i got better at coding
 if projects get too big like the text adventure one i will make a separate repository for it
+
+and yeah i will do the advanced challenges too, i just want to be a decent programmer at the end of it, we will think about going complicated stuff later on
